@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="126">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="method#FindContinuousSequence#0;class#FINDContinuousSequence#0" />
@@ -109,7 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +121,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,11 +249,12 @@
       <workItem from="1551242069184" duration="3598000" />
       <workItem from="1551245746117" duration="1814000" />
       <workItem from="1551251808799" duration="1180000" />
+      <workItem from="1551253034723" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149526000" />
+    <option name="totallyTimeSpent" value="149859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +268,7 @@
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.23600605" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
@@ -280,8 +281,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49394855" visible="true" weight="0.32495812" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.32495812" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49319214" visible="true" weight="0.479062" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50680786" side_tool="true" visible="true" weight="0.479062" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
       <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.09715243" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
@@ -1023,7 +1024,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="126">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="method#FindContinuousSequence#0;class#FINDContinuousSequence#0" />

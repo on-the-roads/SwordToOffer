@@ -42,6 +42,6 @@ public class FINDContinuousSequence {
     }
 
     public static void main(String[] args) {
-        new FINDContinuousSequence().FindContinuousSequence(100);//dsaf asd
+        new FINDContinuousSequence().FindContinuousSequence(100);
     }
 }
