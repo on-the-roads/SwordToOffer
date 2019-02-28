@@ -13,16 +13,27 @@
     <favorites_list name="剑指Offer" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="265">
+              <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
               <folding>
-                <element signature="method#FindContinuousSequence#0;class#FINDContinuousSequence#0" />
-                <element signature="e#1104#1105#0" expanded="true" />
-                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="method#ReverseSentence#0;class#REVERSESentence#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="6695" column="20" selection-start-line="6695" selection-start-column="20" selection-end-line="6695" selection-end-column="20" />
+              <folding>
+                <element signature="e#242085#242086#0" expanded="true" />
+                <element signature="e#242128#242129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/c_Convert.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/c1_Convert.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/c2_Convert.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Find.java" />
@@ -95,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Array/FINDNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/FINDNumbersWithSum.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java" />
       </list>
     </option>
   </component>
@@ -109,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,11 +127,30 @@
               <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FINDContinuousSequence">
+  <component name="RunManager" selected="Application.REVERSESentence">
     <configuration name="FINDContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Array.FINDContinuousSequence" />
       <module name="剑指Offer" />
@@ -180,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GETNumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.GETNumberOfK" />
+    <configuration name="REVERSESentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.REVERSESentence" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.REVERSESentence" />
         <item itemvalue="Application.FINDContinuousSequence" />
         <item itemvalue="Application.FINDNumbersWithSum" />
         <item itemvalue="Application.FINDNumsAppearOnce" />
         <item itemvalue="Application.Tree_Depth" />
-        <item itemvalue="Application.GETNumberOfK" />
       </list>
     </recent_temporary>
   </component>
@@ -249,12 +278,14 @@
       <workItem from="1551242069184" duration="3598000" />
       <workItem from="1551245746117" duration="1814000" />
       <workItem from="1551251808799" duration="1180000" />
-      <workItem from="1551253034723" duration="233000" />
+      <workItem from="1551253034723" duration="1084000" />
+      <workItem from="1551269345782" duration="62000" />
+      <workItem from="1551315552082" duration="3415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149859000" />
+    <option name="totallyTimeSpent" value="154087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,24 +298,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.2397882" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.27836612" />
       <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27090302" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20234114" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20100503" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49319214" visible="true" weight="0.479062" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50680786" side_tool="true" visible="true" weight="0.479062" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5325265" weight="0.29480737" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46747354" side_tool="true" weight="0.2964824" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.09715243" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -594,6 +626,12 @@
           <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -631,13 +669,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/a1_Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/CLone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1024,12 +1055,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="-528">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
-            <element signature="method#FindContinuousSequence#0;class#FINDContinuousSequence#0" />
             <element signature="e#1104#1105#0" expanded="true" />
             <element signature="e#1186#1187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="6695" column="20" selection-start-line="6695" selection-start-column="20" selection-end-line="6695" selection-end-column="20" />
+          <folding>
+            <element signature="e#242085#242086#0" expanded="true" />
+            <element signature="e#242128#242129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="method#ReverseSentence#0;class#REVERSESentence#0" />
           </folding>
         </state>
       </provider>
