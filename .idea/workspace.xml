@@ -15,26 +15,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-              <folding>
-                <element signature="method#ReverseSentence#0;class#REVERSESentence#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="6695" column="20" selection-start-line="6695" selection-start-column="20" selection-end-line="6695" selection-end-column="20" />
-              <folding>
-                <element signature="e#242085#242086#0" expanded="true" />
-                <element signature="e#242128#242129#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="110">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -55,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/c1_Convert.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/c2_Convert.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Find.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/Solution.java" />
@@ -106,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Array/FINDNumbersWithSum.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/FINDContinuousSequence.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -280,12 +267,12 @@
       <workItem from="1551251808799" duration="1180000" />
       <workItem from="1551253034723" duration="1084000" />
       <workItem from="1551269345782" duration="62000" />
-      <workItem from="1551315552082" duration="3415000" />
+      <workItem from="1551315552082" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154087000" />
+    <option name="totallyTimeSpent" value="154602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +287,7 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.27836612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.27836612" />
       <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
@@ -313,10 +300,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5325265" weight="0.29480737" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5325265" visible="true" weight="0.17755444" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46747354" side_tool="true" weight="0.2964824" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.28308207" />
+      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.28308207" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -628,7 +615,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java</url>
-          <line>61</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
@@ -669,13 +656,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/CLone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/c1_Convert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1074,6 +1054,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="method#ReverseSentence#0;class#REVERSESentence#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1085,13 +1075,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding>
-            <element signature="method#ReverseSentence#0;class#REVERSESentence#0" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
