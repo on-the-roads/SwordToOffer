@@ -13,12 +13,37 @@
     <favorites_list name="剑指Offer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/LEFTRotateString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/IsContinuous.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <element signature="method#main#0;class#IsContinuous#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -26,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
+            <state relative-caret-position="41492">
               <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
             </state>
           </provider>
@@ -48,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/Array/Find.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/Solution.java" />
@@ -99,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Array/REVERSESentence.java" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/LEFTRotateString.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Array/IsContinuous.java" />
       </list>
     </option>
   </component>
@@ -114,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,7 +170,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LEFTRotateString">
+  <component name="RunManager" selected="Application.IsContinuous">
     <configuration name="FINDContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Array.FINDContinuousSequence" />
       <module name="剑指Offer" />
@@ -196,8 +221,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FINDNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.FINDNumsAppearOnce" />
+    <configuration name="IsContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.IsContinuous" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsContinuous" />
         <item itemvalue="Application.LEFTRotateString" />
         <item itemvalue="Application.REVERSESentence" />
         <item itemvalue="Application.FINDContinuousSequence" />
         <item itemvalue="Application.FINDNumbersWithSum" />
-        <item itemvalue="Application.FINDNumsAppearOnce" />
       </list>
     </recent_temporary>
   </component>
@@ -274,12 +299,14 @@
       <workItem from="1551251808799" duration="1180000" />
       <workItem from="1551253034723" duration="1084000" />
       <workItem from="1551269345782" duration="62000" />
-      <workItem from="1551315552082" duration="4985000" />
+      <workItem from="1551315552082" duration="5058000" />
+      <workItem from="1551323223176" duration="21000" />
+      <workItem from="1551401718410" duration="1740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155657000" />
+    <option name="totallyTimeSpent" value="157491000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,7 +321,7 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.27836612" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
@@ -307,10 +334,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5325265" visible="true" weight="0.40201005" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5325265" weight="0.40201005" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46747354" side_tool="true" weight="0.2964824" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.28308207" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -632,6 +659,12 @@
           <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/IsContinuous.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -669,20 +702,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/b2_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/PrintFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1080,17 +1099,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/LEFTRotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
+        <state relative-caret-position="41492">
           <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/LEFTRotateString.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="109">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/IsContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="method#main#0;class#IsContinuous#0" />
+          </folding>
         </state>
       </provider>
     </entry>
