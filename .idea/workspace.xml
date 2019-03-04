@@ -14,106 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/NUMberOf1Between1AndN_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="9" selection-start-line="17" selection-end-line="34" />
-              <folding>
-                <element signature="method#NumberOf1Between1AndN_Solution#0;class#NUMberOf1Between1AndN_Solution#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/POwer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/POwer2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/SUM_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/ADD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/Tree_Depth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/ISBalanced_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/String/Str_To_Int.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41492">
-              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -134,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/Array/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/Solution.java" />
@@ -185,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Others/ADD.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/ISBalanced_Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/Str_To_Int.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java" />
       </list>
     </option>
   </component>
@@ -219,6 +124,13 @@
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
@@ -269,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Str_To_Int">
+  <component name="RunManager" selected="Application.Duplicate">
     <configuration name="ADD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Others.ADD" />
       <module name="剑指Offer" />
@@ -277,15 +189,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ISBalanced_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.ISBalanced_Solution" />
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Duplicate" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LASTRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.LinkedList.LASTRemaining_Solution" />
+    <configuration name="ISBalanced_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.ISBalanced_Solution" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -307,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Str_To_Int" />
         <item itemvalue="Application.ISBalanced_Solution" />
         <item itemvalue="Application.ADD" />
         <item itemvalue="Application.SUM_Solution" />
-        <item itemvalue="Application.LASTRemaining_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -367,12 +279,12 @@
       <workItem from="1551401718410" duration="6465000" />
       <workItem from="1551495382309" duration="603000" />
       <workItem from="1551578447154" duration="4093000" />
-      <workItem from="1551686715458" duration="1524000" />
+      <workItem from="1551686715458" duration="5539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168436000" />
+    <option name="totallyTimeSpent" value="172451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,7 +299,7 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.12102874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.055975795" />
       <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
@@ -400,10 +312,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.53177005" visible="true" weight="0.18927974" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53177005" weight="0.06867672" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46822995" side_tool="true" weight="0.40201005" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.28308207" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.6716918" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -755,6 +667,30 @@
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -792,13 +728,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="46" column="44" lean-forward="true" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/NUMberOf1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -910,17 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/PERmutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Permutation#0;class#PERmutation#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/PRINTMinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -963,13 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1804">
           <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -1223,8 +1134,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/String/Str_To_Int.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="704">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/PERmutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Permutation#0;class#PERmutation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
         </state>
       </provider>
     </entry>
