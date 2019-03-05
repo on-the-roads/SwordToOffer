@@ -23,13 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="302">
               <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Match.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
-                <element signature="method#multiply#0;class#Multiply#0" />
+                <element signature="method#match#0;class#Match#0" />
+                <element signature="method#matchCore#0;class#Match#0" />
               </folding>
             </state>
           </provider>
@@ -51,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/FIbonacci.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/FIbonacci2.java" />
@@ -102,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/String/Str_To_Int.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Array/Match.java" />
       </list>
     </option>
   </component>
@@ -193,14 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Multiply">
-    <configuration name="ADD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Others.ADD" />
-      <module name="剑指Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Match">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Duplicate" />
       <module name="剑指Offer" />
@@ -210,6 +213,13 @@
     </configuration>
     <configuration name="ISBalanced_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.ISBalanced_Solution" />
+      <module name="剑指Offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Match" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -231,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Match" />
         <item itemvalue="Application.Multiply" />
         <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Str_To_Int" />
         <item itemvalue="Application.ISBalanced_Solution" />
-        <item itemvalue="Application.ADD" />
       </list>
     </recent_temporary>
   </component>
@@ -292,12 +302,12 @@
       <workItem from="1551495382309" duration="603000" />
       <workItem from="1551578447154" duration="4093000" />
       <workItem from="1551686715458" duration="5590000" />
-      <workItem from="1551771801555" duration="2305000" />
+      <workItem from="1551771801555" duration="7293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174807000" />
+    <option name="totallyTimeSpent" value="179795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,17 +328,17 @@
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27090302" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31323284" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.3484087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53177005" weight="0.34338358" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46822995" side_tool="true" weight="0.40201005" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5310136" visible="true" weight="0.34338358" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4689864" side_tool="true" visible="true" weight="0.34338358" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.25460637" />
+      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49924356" weight="0.28308207" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -710,6 +720,12 @@
           <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Match.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -747,13 +763,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/FIbonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/REctCover.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -1178,10 +1187,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="302">
           <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
-            <element signature="method#multiply#0;class#Multiply#0" />
+            <element signature="method#match#0;class#Match#0" />
+            <element signature="method#matchCore#0;class#Match#0" />
           </folding>
         </state>
       </provider>
