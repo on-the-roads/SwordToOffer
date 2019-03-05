@@ -14,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Multiply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+              <folding>
+                <element signature="method#multiply#0;class#Multiply#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/MinNumberInRotateArray2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/FIbonacci.java" />
@@ -90,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/ISBalanced_Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/Str_To_Int.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Array/Multiply.java" />
       </list>
     </option>
   </component>
@@ -107,6 +119,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,8 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Duplicate">
+  <component name="RunManager" selected="Application.Multiply">
     <configuration name="ADD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Others.ADD" />
       <module name="剑指Offer" />
@@ -203,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SUM_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Others.SUM_Solution" />
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Multiply" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multiply" />
         <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Str_To_Int" />
         <item itemvalue="Application.ISBalanced_Solution" />
         <item itemvalue="Application.ADD" />
-        <item itemvalue="Application.SUM_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -279,12 +291,13 @@
       <workItem from="1551401718410" duration="6465000" />
       <workItem from="1551495382309" duration="603000" />
       <workItem from="1551578447154" duration="4093000" />
-      <workItem from="1551686715458" duration="5539000" />
+      <workItem from="1551686715458" duration="5590000" />
+      <workItem from="1551771801555" duration="2305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172451000" />
+    <option name="totallyTimeSpent" value="174807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,8 +312,8 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45748988" visible="true" weight="0.055975795" />
-      <window_info id="Structure" order="1" sideWeight="0.5425101" side_tool="true" weight="0.23524962" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45617977" visible="true" weight="0.20196672" />
+      <window_info id="Structure" order="1" sideWeight="0.5438202" side_tool="true" weight="0.20196672" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,10 +325,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53177005" weight="0.06867672" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53177005" weight="0.34338358" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46822995" side_tool="true" weight="0.40201005" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.6716918" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49924356" visible="true" weight="0.25460637" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -691,6 +704,12 @@
           <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Array/Multiply.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -728,13 +747,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/NUMberOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/FIbonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1160,7 +1172,17 @@
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding>
+            <element signature="method#multiply#0;class#Multiply#0" />
+          </folding>
         </state>
       </provider>
     </entry>
