@@ -27,13 +27,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="144">
               <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="method#deleteDuplication#0;class#DeleteDuplication#0" />
               </folding>
             </state>
           </provider>
@@ -55,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/NUMberOf1.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/POwer.java" />
@@ -106,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java" />
       </list>
     </option>
   </component>
@@ -190,9 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ENTRYNodeOfLoop">
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Duplicate" />
+  <component name="RunManager" selected="Application.DeleteDuplication">
+    <configuration name="DeleteDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.LinkedList.DeleteDuplication" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteDuplication" />
         <item itemvalue="Application.ENTRYNodeOfLoop" />
         <item itemvalue="Application.ISNumeric" />
         <item itemvalue="Application.Match" />
         <item itemvalue="Application.Multiply" />
-        <item itemvalue="Application.Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -291,12 +303,12 @@
       <workItem from="1551686715458" duration="5590000" />
       <workItem from="1551771801555" duration="7927000" />
       <workItem from="1551872920166" duration="5738000" />
-      <workItem from="1551942357790" duration="3639000" />
+      <workItem from="1551942357790" duration="9348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189806000" />
+    <option name="totallyTimeSpent" value="195515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,8 +323,8 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75313807" visible="true" weight="0.24432677" />
-      <window_info id="Structure" order="1" sideWeight="0.24686192" side_tool="true" visible="true" weight="0.24432677" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7511848" visible="true" weight="0.24432677" />
+      <window_info id="Structure" order="1" sideWeight="0.24881516" side_tool="true" visible="true" weight="0.24432677" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,10 +336,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" visible="true" weight="0.19932999" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.11725293" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49848714" weight="0.39028475" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.29313233" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -751,6 +763,12 @@
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -788,13 +806,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/FIbonacci2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REOrderArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1227,10 +1238,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="144">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="method#deleteDuplication#0;class#DeleteDuplication#0" />
           </folding>
         </state>
       </provider>
