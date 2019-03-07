@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35fda0c0-cb82-47ae-8e1e-f62457c1c106" name="默认更改列表" comment="" />
+    <list default="true" id="35fda0c0-cb82-47ae-8e1e-f62457c1c106" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +17,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/ISNumeric.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="154">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="method#Insert#0;class#FIRSTAppearingOnce#0" />
+                <element signature="method#FirstAppearingOnce#0;class#FIRSTAppearingOnce#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/FIbonacci.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/DiedaiAndXunhuan/FIbonacci2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/NUMberOf1.java" />
@@ -68,7 +73,6 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Others/NUMberOf1Between1AndN_Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/PRINTMinNumber.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/NewDefinition/UglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/INVERSEPairs.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/FINDFirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/GETLeastNumbers_Solution.java" />
@@ -90,6 +94,8 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Multiply.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/Match.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/ISNumeric.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java" />
       </list>
     </option>
   </component>
@@ -107,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,20 +137,12 @@
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="剑指Offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="462c0819:PsiDirectoryNode" />
               <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -281,12 +280,13 @@
       <workItem from="1551578447154" duration="4093000" />
       <workItem from="1551686715458" duration="5590000" />
       <workItem from="1551771801555" duration="7927000" />
-      <workItem from="1551872920166" duration="4809000" />
+      <workItem from="1551872920166" duration="5738000" />
+      <workItem from="1551942357790" duration="1959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185238000" />
+    <option name="totallyTimeSpent" value="188126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,10 +301,10 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45617977" visible="true" weight="0.20499243" />
-      <window_info id="Structure" order="1" sideWeight="0.5438202" side_tool="true" weight="0.20196672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75313807" visible="true" weight="0.24432677" />
+      <window_info id="Structure" order="1" sideWeight="0.24686192" side_tool="true" visible="true" weight="0.24432677" />
       <window_info id="设计器" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.5083612" side_tool="true" weight="0.18986385" />
+      <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27090302" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.3484087" />
@@ -314,10 +314,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.16247906" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" visible="true" weight="0.19932999" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.5477387" />
+      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49848714" weight="0.5477387" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -563,7 +563,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java</url>
-          <line>49</line>
+          <line>50</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
@@ -766,13 +766,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/JUmpFloorII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/FIbonaccis/JUmpFloor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1167,13 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/Duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -1201,8 +1187,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/ISNumeric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        <state relative-caret-position="-44">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="method#Insert#0;class#FIRSTAppearingOnce#0" />
+            <element signature="method#FirstAppearingOnce#0;class#FIRSTAppearingOnce#0" />
+          </folding>
         </state>
       </provider>
     </entry>
