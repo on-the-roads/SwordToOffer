@@ -17,12 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="method#Insert#0;class#FIRSTAppearingOnce#0" />
-                <element signature="method#FirstAppearingOnce#0;class#FIRSTAppearingOnce#0" />
-              </folding>
+            <state relative-caret-position="-243">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -30,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="264">
               <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
@@ -39,13 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="176">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
               <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <element signature="method#deleteDuplication#0;class#DeleteDuplication#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/WeiAlgorithm/NUMberOf1.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/POwer.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/POwer2.java" />
@@ -118,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/String/GETMedian.java" />
       </list>
     </option>
   </component>
@@ -135,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,12 +165,13 @@
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -202,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteDuplication">
+  <component name="RunManager" selected="Application.GETMedian">
     <configuration name="DeleteDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.LinkedList.DeleteDuplication" />
       <module name="剑指Offer" />
@@ -212,6 +219,13 @@
     </configuration>
     <configuration name="ENTRYNodeOfLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.LinkedList.ENTRYNodeOfLoop" />
+      <module name="剑指Offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.String.GETMedian" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -231,20 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Array.Multiply" />
-      <module name="剑指Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GETMedian" />
         <item itemvalue="Application.DeleteDuplication" />
         <item itemvalue="Application.ENTRYNodeOfLoop" />
         <item itemvalue="Application.ISNumeric" />
         <item itemvalue="Application.Match" />
-        <item itemvalue="Application.Multiply" />
       </list>
     </recent_temporary>
   </component>
@@ -303,12 +310,15 @@
       <workItem from="1551686715458" duration="5590000" />
       <workItem from="1551771801555" duration="7927000" />
       <workItem from="1551872920166" duration="5738000" />
-      <workItem from="1551942357790" duration="9348000" />
+      <workItem from="1551942357790" duration="9574000" />
+      <workItem from="1551959568926" duration="602000" />
+      <workItem from="1551966343920" duration="37000" />
+      <workItem from="1552139117789" duration="2199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195515000" />
+    <option name="totallyTimeSpent" value="198579000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,24 +333,24 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7511848" visible="true" weight="0.24432677" />
-      <window_info id="Structure" order="1" sideWeight="0.24881516" side_tool="true" visible="true" weight="0.24432677" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7440633" visible="true" weight="0.11195159" />
+      <window_info id="Structure" order="1" sideWeight="0.25593668" side_tool="true" visible="true" weight="0.11195159" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27090302" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.3484087" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.21105528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.11725293" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" visible="true" weight="0.36515912" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.29313233" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.32943144" />
+      <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49848714" weight="0.29313233" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3283082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -769,6 +779,24 @@
           <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -806,16 +834,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REOrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="8" selection-start-line="2" selection-end-line="3" />
-          <folding>
-            <element signature="method#reOrderArray#0;class#REOrderArray#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/REOrderArray2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1225,20 +1243,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="method#Insert#0;class#FIRSTAppearingOnce#0" />
-            <element signature="method#FirstAppearingOnce#0;class#FIRSTAppearingOnce#0" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="264">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
@@ -1246,12 +1260,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="-243">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="method#deleteDuplication#0;class#DeleteDuplication#0" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
           </folding>
         </state>
       </provider>
