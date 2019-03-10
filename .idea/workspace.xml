@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35fda0c0-cb82-47ae-8e1e-f62457c1c106" name="默认更改列表" comment="" />
+    <list default="true" id="35fda0c0-cb82-47ae-8e1e-f62457c1c106" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/Solution/String/GETMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solution/String/GETMedian.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,45 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding>
-                <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="218">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#939#948#0" expanded="true" />
+                <element signature="class#953:1085" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1150#1159#0" expanded="true" />
+                <element signature="class#1164:1276" />
+                <element signature="e#1249#1250#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+                <element signature="method#Insert#0;class#GETMedian#0" />
+                <element signature="method#GetMedian#0;class#GETMedian#0" />
               </folding>
             </state>
           </provider>
@@ -142,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,7 +152,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -313,12 +293,14 @@
       <workItem from="1551942357790" duration="9574000" />
       <workItem from="1551959568926" duration="602000" />
       <workItem from="1551966343920" duration="37000" />
-      <workItem from="1552139117789" duration="2199000" />
+      <workItem from="1552139117789" duration="2237000" />
+      <workItem from="1552181537545" duration="66000" />
+      <workItem from="1552198847656" duration="3131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198579000" />
+    <option name="totallyTimeSpent" value="201814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,20 +315,20 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7440633" visible="true" weight="0.11195159" />
-      <window_info id="Structure" order="1" sideWeight="0.25593668" side_tool="true" visible="true" weight="0.11195159" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.737931" visible="true" weight="0.11497731" />
+      <window_info id="Structure" order="1" sideWeight="0.26206896" side_tool="true" visible="true" weight="0.11497731" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27090302" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.21105528" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.515885" weight="0.6683417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" visible="true" weight="0.36515912" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" visible="true" weight="0.2713568" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
       <window_info anchor="bottom" id="调试" order="12" sideWeight="0.49848714" weight="0.29313233" />
@@ -787,15 +769,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java</url>
-          <line>38</line>
+          <line>30</line>
           <properties />
-          <option name="timeStamp" value="138" />
+          <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java</url>
-          <line>25</line>
+          <line>83</line>
           <properties />
-          <option name="timeStamp" value="139" />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
@@ -1243,38 +1231,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/DeleteDuplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="338">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/LinkedList/ENTRYNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="198">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="method#EntryNodeOfLoop#0;class#ENTRYNodeOfLoop#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/String/FIRSTAppearingOnce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/String/GETMedian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="218">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#939#948#0" expanded="true" />
+            <element signature="class#953:1085" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1150#1159#0" expanded="true" />
+            <element signature="class#1164:1276" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="method#Insert#0;class#GETMedian#0" />
+            <element signature="method#GetMedian#0;class#GETMedian#0" />
           </folding>
         </state>
       </provider>
