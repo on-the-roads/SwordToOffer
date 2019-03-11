@@ -32,15 +32,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/PRINT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+            <state relative-caret-position="206">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#290#300#0" expanded="true" />
                 <element signature="e#347#357#0" expanded="true" />
+                <element signature="method#main#0;class#PRINT#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/PrintLevelFromleftToRight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1885#2404#0" />
               </folding>
             </state>
           </provider>
@@ -62,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/FIbonaccis/FIbonacci2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/FIbonaccis/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/FIbonaccis/JUmpFloor.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/FIbonaccis/JUmpFloorII.java" />
@@ -113,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/GETNext.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/ISSymmetrical.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/PRINT.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Tree/PrintLevelFromleftToRight.java" />
       </list>
     </option>
   </component>
@@ -197,14 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PRINT">
-    <configuration name="DeleteDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.LinkedList.DeleteDuplication" />
-      <module name="剑指Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrintLevelFromleftToRight">
     <configuration name="GETMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.String.GETMedian" />
       <module name="剑指Offer" />
@@ -233,13 +240,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintLevelFromleftToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.PrintLevelFromleftToRight" />
+      <module name="剑指Offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintLevelFromleftToRight" />
         <item itemvalue="Application.PRINT" />
         <item itemvalue="Application.ISSymmetrical" />
         <item itemvalue="Application.GETNext" />
         <item itemvalue="Application.GETMedian" />
-        <item itemvalue="Application.DeleteDuplication" />
       </list>
     </recent_temporary>
   </component>
@@ -305,12 +319,12 @@
       <workItem from="1552181537545" duration="66000" />
       <workItem from="1552198847656" duration="11238000" />
       <workItem from="1552286413894" duration="14000" />
-      <workItem from="1552308024122" duration="1362000" />
+      <workItem from="1552308024122" duration="2890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211297000" />
+    <option name="totallyTimeSpent" value="212825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,8 +339,8 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73390555" visible="true" weight="0.24281392" />
-      <window_info id="Structure" order="1" sideWeight="0.26609442" side_tool="true" visible="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73253495" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" sideWeight="0.26746505" side_tool="true" visible="true" weight="0.24281392" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,10 +352,10 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.015075377" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.30653265" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.21943049" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.16080402" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3283082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -825,6 +839,18 @@
           <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Tree/PrintLevelFromleftToRight.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Tree/PRINT.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -870,13 +896,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/COnstructBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/VERIFYSquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -1316,12 +1335,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/PRINT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+        <state relative-caret-position="206">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#290#300#0" expanded="true" />
             <element signature="e#347#357#0" expanded="true" />
+            <element signature="method#main#0;class#PRINT#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Tree/PrintLevelFromleftToRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1885#2404#0" />
           </folding>
         </state>
       </provider>
