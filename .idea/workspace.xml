@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/MovingCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="280">
               <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="method#movingCount#0;class#MovingCount#0" />
@@ -76,6 +76,18 @@
                 <element signature="method#sum#0;class#MovingCount#0" />
                 <element signature="e#1217#1218#0" expanded="true" />
                 <element signature="e#1277#1278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/HASPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Solution/FIbonaccis/REctCover.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/REOrderArray.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/REOrderArray2.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/COnstructBinaryTree.java" />
@@ -178,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/com/Solution/Tree/FindKthNode.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Array/MaxInWindows.java" />
         <option value="$PROJECT_DIR$/src/com/Solution/Others/MovingCount.java" />
+        <option value="$PROJECT_DIR$/src/com/Solution/Others/HASPath.java" />
       </list>
     </option>
   </component>
@@ -262,9 +274,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MovingCount">
+  <component name="RunManager" selected="Application.HASPath">
     <configuration name="FindKthNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.FindKthNode" />
+      <module name="剑指Offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HASPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solution.Others.HASPath" />
       <module name="剑指Offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -284,13 +303,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PRINT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.PRINT" />
-      <module name="剑指Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrintLevelFromleftToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solution.Tree.PrintLevelFromleftToRight" />
       <module name="剑指Offer" />
@@ -300,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HASPath" />
         <item itemvalue="Application.MovingCount" />
         <item itemvalue="Application.MaxInWindows" />
         <item itemvalue="Application.FindKthNode" />
         <item itemvalue="Application.PrintLevelFromleftToRight" />
-        <item itemvalue="Application.PRINT" />
       </list>
     </recent_temporary>
   </component>
@@ -373,12 +385,12 @@
       <workItem from="1552308024122" duration="3529000" />
       <workItem from="1552374443979" duration="231000" />
       <workItem from="1552395495545" duration="5459000" />
-      <workItem from="1552479146471" duration="1606000" />
+      <workItem from="1552479146471" duration="5490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220760000" />
+    <option name="totallyTimeSpent" value="224644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,8 +405,8 @@
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7" visible="true" weight="0.25416037" />
-      <window_info id="Structure" order="1" sideWeight="0.3" side_tool="true" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7238806" visible="true" weight="0.061270803" />
+      <window_info id="Structure" order="1" sideWeight="0.2761194" side_tool="true" visible="true" weight="0.061270803" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5292887" side_tool="true" weight="0.20801815" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -409,7 +421,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53025717" weight="0.30653265" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.28308207" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.32663316" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.5812395" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" sideWeight="0.49848714" visible="true" weight="0.32663316" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3283082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -923,6 +935,12 @@
           <properties />
           <option name="timeStamp" value="174" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Solution/Others/HASPath.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Solution/Tree/HASSubtree.java</url>
           <line>6</line>
@@ -968,13 +986,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Solution/Array/FINDGreatestSumOfSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2376">
@@ -1413,7 +1424,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/MovingCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="280">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="method#movingCount#0;class#MovingCount#0" />
@@ -1421,6 +1432,16 @@
             <element signature="method#sum#0;class#MovingCount#0" />
             <element signature="e#1217#1218#0" expanded="true" />
             <element signature="e#1277#1278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution/Others/HASPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
